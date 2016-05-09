@@ -1,0 +1,2 @@
+<apex:page showHeader="true" sidebar="true" StandardController="Order" extensions="OrderProductRedirectExtension" action="{!redirect}">
+</apex:page>
